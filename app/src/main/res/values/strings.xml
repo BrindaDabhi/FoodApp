@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FOODapp</string>
+    <string name="foodname">FoodName</string>
+    <string name="video">VIDEO</string>
+    <string name="info">INFO</string>
+    <string name="this_is_the_information">This is the Information</string>
+    <string name="you_tube">YOU TUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="name">name</string>
+    <string name="foodapp">FOODapp</string>
+    <string name="search_category_here">Search Category Here</string>
+    <string name="help">Help</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="brinda_dabhi">Brinda Dabhi</string>
+    <string name="dabhibrinda_gmail_com">dabhibrinda@gmail.com</string>
+    <string name="search">Search</string>
+</resources>
